@@ -1,6 +1,4 @@
-# c--mini-projeto
-
-# Interactive C# Projects
+# C# - Projeto Interativo
 
 Projeto desenvolvido no ensino secundário com foco na aprendizagem de programação em C# e desenvolvimento de aplicações interativas.
 
