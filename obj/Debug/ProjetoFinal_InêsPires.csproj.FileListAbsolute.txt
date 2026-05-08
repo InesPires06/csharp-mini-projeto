@@ -1,0 +1,33 @@
+C:\Users\Inês Pires\Desktop\AI2\ProjetoFinal_InêsPires\bin\Debug\ProjetoFinal_InêsPires.exe.config
+C:\Users\Inês Pires\Desktop\AI2\ProjetoFinal_InêsPires\bin\Debug\ProjetoFinal_InêsPires.exe
+C:\Users\Inês Pires\Desktop\AI2\ProjetoFinal_InêsPires\bin\Debug\ProjetoFinal_InêsPires.pdb
+C:\Users\Inês Pires\Desktop\AI2\ProjetoFinal_InêsPires\obj\Debug\ProjetoFinal_InêsPires.csproj.AssemblyReference.cache
+C:\Users\Inês Pires\Desktop\AI2\ProjetoFinal_InêsPires\obj\Debug\ProjetoFinal_InêsPires.Form1.resources
+C:\Users\Inês Pires\Desktop\AI2\ProjetoFinal_InêsPires\obj\Debug\ProjetoFinal_InêsPires.Properties.Resources.resources
+C:\Users\Inês Pires\Desktop\AI2\ProjetoFinal_InêsPires\obj\Debug\ProjetoFinal_InêsPires.Sobre.resources
+C:\Users\Inês Pires\Desktop\AI2\ProjetoFinal_InêsPires\obj\Debug\ProjetoFinal_InêsPires.csproj.GenerateResource.cache
+C:\Users\Inês Pires\Desktop\AI2\ProjetoFinal_InêsPires\obj\Debug\ProjetoFinal_InêsPires.csproj.CoreCompileInputs.cache
+C:\Users\Inês Pires\Desktop\AI2\ProjetoFinal_InêsPires\obj\Debug\ProjetoFinal_InêsPires.exe
+C:\Users\Inês Pires\Desktop\AI2\ProjetoFinal_InêsPires\obj\Debug\ProjetoFinal_InêsPires.pdb
+C:\Users\Inês Pires\Desktop\AI2\ProjetoFinal_InêsPires\obj\Debug\ProjetoFinal_InêsPires.ConversorTemperaturas.resources
+C:\Users\Inês Pires\Desktop\AI2\ProjetoFinal_InêsPires\obj\Debug\ProjetoFinal_InêsPires.nivelfacil.resources
+C:\Users\Inês Pires\Desktop\AI2\ProjetoFinal_InêsPires\bin\Debug\Interop.WMPLib.dll
+C:\Users\Inês Pires\Desktop\AI2\ProjetoFinal_InêsPires\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Inês Pires\Desktop\AI2\ProjetoFinal_InêsPires\obj\Debug\Interop.WMPLib.dll
+C:\Users\Inês Pires\Desktop\AI2\ProjetoFinal_InêsPires\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Inês Pires\Desktop\AI2\ProjetoFinal_InêsPires\obj\Debug\ProjetoFinal_InêsPires.csproj.ResolveComReference.cache
+C:\Users\Inês Pires\Desktop\AI2\ProjetoFinal_InêsPires\obj\Debug\ProjetoFinal_InêsPires.Form2.resources
+C:\Users\Inês Pires\Desktop\AI2\ProjetoFinal_InêsPires\obj\Debug\ProjetoFinal_InêsPires.Dificuldade.resources
+C:\Users\Inês Pires\Desktop\AI2\ProjetoFinal_InêsPires\obj\Debug\ProjetoFinal_InêsPires.nivelmedio.resources
+C:\Users\ASUS\Downloads\ProjetoFinal_InêsPires_V3\ProjetoFinal_InêsPires\obj\Debug\ProjetoFinal_InêsPires.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\ProjetoFinal_InêsPires_V3\ProjetoFinal_InêsPires\obj\Debug\Interop.WMPLib.dll
+C:\Users\ASUS\Downloads\ProjetoFinal_InêsPires_V3\ProjetoFinal_InêsPires\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ASUS\Downloads\ProjetoFinal_InêsPires_V3\ProjetoFinal_InêsPires\obj\Debug\ProjetoFinal_InêsPires.csproj.ResolveComReference.cache
+C:\Users\ASUS\Downloads\ProjetoFinal_InêsPires_V3\ProjetoFinal_InêsPires\obj\Debug\ProjetoFinal_InêsPires.exe
+C:\Users\ASUS\Downloads\ProjetoFinal_InêsPires_V3\ProjetoFinal_InêsPires\obj\Debug\ProjetoFinal_InêsPires.pdb
+C:\Users\ASUS\Downloads\ProjetoFinal_InêsPires_V3\ProjetoFinal_InêsPires\csharp-mini-projeto\obj\Debug\ProjetoFinal_InêsPires.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\ProjetoFinal_InêsPires_V3\ProjetoFinal_InêsPires\csharp-mini-projeto\obj\Debug\Interop.WMPLib.dll
+C:\Users\ASUS\Downloads\ProjetoFinal_InêsPires_V3\ProjetoFinal_InêsPires\csharp-mini-projeto\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ASUS\Downloads\ProjetoFinal_InêsPires_V3\ProjetoFinal_InêsPires\csharp-mini-projeto\obj\Debug\ProjetoFinal_InêsPires.csproj.ResolveComReference.cache
+C:\Users\ASUS\Downloads\ProjetoFinal_InêsPires_V3\ProjetoFinal_InêsPires\csharp-mini-projeto\obj\Debug\ProjetoFinal_InêsPires.exe
+C:\Users\ASUS\Downloads\ProjetoFinal_InêsPires_V3\ProjetoFinal_InêsPires\csharp-mini-projeto\obj\Debug\ProjetoFinal_InêsPires.pdb
